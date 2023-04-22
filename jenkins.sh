@@ -25,5 +25,3 @@ cat /var/lib/jenkins/secrets/initialAdminPassword
 #sudo service jenkins status
 
 
-#34.232.26.121
-
