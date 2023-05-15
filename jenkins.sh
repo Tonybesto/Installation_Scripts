@@ -20,7 +20,7 @@ sudo apt-get install jenkins -y
 
 sudo service jenkins start
 
-cat /var/lib/jenkins/secrets/initialAdminPassword
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 #sudo service jenkins status
 
