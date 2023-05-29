@@ -22,6 +22,6 @@ sudo service jenkins start
 
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
-#sudo service jenkins status
+sudo systemctl status jenkins
 
 
